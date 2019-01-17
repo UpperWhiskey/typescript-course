@@ -1,2 +1,2 @@
 # typescript-course
-Curso de typescript ministrado na Udemy.
+Curso de typescript ministrado por Raphael Lima na Udemy.
